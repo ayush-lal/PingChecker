@@ -1,6 +1,6 @@
 # PingChecker
 
-Simple Python application to ping Google's IP and output either a "Network Up" or "Network Down" response in the MacOS Taskbar.
+Simple Python application that pings Google's IP and outputs either a "Network Up" or "Network Down" response in the MacOS Taskbar.
 
 ![PingChecker Preview](assets/preview.gif)
 
